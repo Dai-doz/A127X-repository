@@ -8,6 +8,12 @@
 1. **Download ROMs:**
    - Download the **Any latest One UI ROM for A12s** from SamFirm or SamFW.
 
+## Useful stuff
+
+Vendor repository:[here](https://github.com/Dai-doz/android_vendor_a12snsxx)
+
+Kernel:[here](https://github.com/ProjectDozG/android_kernel_samsung_a12s)
+
 ## Features:
 - Custom vendor with upstream r49p1 blobs
 - Patched `services.jar` with:
