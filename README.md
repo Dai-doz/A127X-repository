@@ -14,6 +14,8 @@ Vendor repository:[here](https://github.com/Dai-doz/android_vendor_a12snsxx)
 
 Kernel:[here](https://github.com/ProjectDozG/android_kernel_samsung_a12s)
 
+Vndks:[here](https://github.com/Dai-doz/A127X-repository/releases/tag/vndks)
+
 ## Features:
 - Custom vendor with upstream r49p1 blobs
 - Patched `services.jar` with:
