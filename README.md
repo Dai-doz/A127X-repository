@@ -76,7 +76,7 @@ Remove genfscon proc "/sys/vm/compaction_proactiveness
 Remove genfscon proc "/sys/vm/compaction_proactiveness
 Remove genfscon proc "/sys/kernel/firmware_config" 
 
-# In/etc/selinux/system_ext_property_contexts commit:
+# In /etc/selinux/system_ext_property_contexts commit:
 
 Remove init.svc.vendor.wvkprov_server_hal
 ```
