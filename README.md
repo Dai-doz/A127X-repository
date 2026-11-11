@@ -29,7 +29,6 @@ Vndks:[here](https://github.com/Dai-doz/A127X-repository/releases/tag/vndks)
 - Works for:
   - **Galaxy M12** 
   - **Galaxy A12s**
-  - **Galaxy A14 4G**
   - Possibly **M13** and **A13**.
 
 ## Step 1 
